@@ -1,0 +1,35 @@
+body {
+    margin-top: 8%;
+    padding: 0;
+    padding-left: 38%;
+  }
+  h2 {
+    text-align: center;
+    color: #E74C3C;
+    margin-top: 0; /* Adjusted to remove space at the top */
+  }
+  .header {
+    background-color: #76D7C4;
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    padding: 30px;
+  }
+  .bca {
+    background-color: white;
+    border: 5px double #E74C3C;
+    width: 40%;
+  }
+  .con {
+    text-align: center;
+    padding-top: 15px;
+  }
+  .footer {
+    text-align: center;
+    background-color: #76D7C4;
+    padding: 15px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+  }
+  button {
+    background-color: #76D7C4;
+  }
